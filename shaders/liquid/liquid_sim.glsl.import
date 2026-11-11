@@ -1,0 +1,14 @@
+[remap]
+
+importer="glsl"
+type="RDShaderFile"
+uid="uid://bnt2107deqj2p"
+path="res://.godot/imported/liquid_sim.glsl-5428fb4ca002e3eda412786779e10fdd.res"
+
+[deps]
+
+source_file="res://shaders/liquid/liquid_sim.glsl"
+dest_files=["res://.godot/imported/liquid_sim.glsl-5428fb4ca002e3eda412786779e10fdd.res"]
+
+[params]
+
